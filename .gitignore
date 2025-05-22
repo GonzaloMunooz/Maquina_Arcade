@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+arcade.db
+*.log
+.vscode/
+env/
